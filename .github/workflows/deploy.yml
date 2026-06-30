@@ -7,7 +7,7 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: back-despachos
-  ECS_CLUSTER: innovatech-cluster-2
+  ECS_CLUSTER: innovatech-cluster
   ECS_SERVICE: back-despachos-service
   CONTAINER_NAME: back-despachos
 
